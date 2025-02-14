@@ -31,5 +31,3 @@ Repository long descripition:
 			• Felsefeciler ve bilinç mühendisleri
 			• Anlam evrenleri, dijital varlıklar ve AI etik sistemleriyle ilgilenen herkes
 		💡 Katkıda bulunmak ve projeyi genişletmek için bizlerle iletişime geçin!
-		
-![image](https://github.com/user-attachments/assets/4d9fb536-7697-4de8-8e4d-a7c327b730e4)
